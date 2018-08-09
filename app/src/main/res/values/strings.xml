@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">StoryGame</string>
+    <string name="horror1">You have a trip to a big forest with your friends. Suddently, the sky become\ndark, it means that it is the night time. You don\'t know where to stay. \nSelect your next way!</string>
+    <string name="horror1_1">You decided to go back to your beginning place. Unfortunately, you get lost.\nYou and your friend heard the strange voice and seem to be crowded of \npeople. Choose your next way!\n</string>
+    <string name="horror2_1" >Then, you look back. You see something so strange such as monsters. \nThere are so many of them. Immediately, they kill your friend. You are so \nlucky that you are still alive. You run away. Choose your next way!</string>
 </resources>
